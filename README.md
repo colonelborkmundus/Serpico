@@ -4,6 +4,14 @@
 
 I am currently looking for a new home for Serpico. Until we find a new maintainer and/or company it will remain read only. Thank you so much for 7(!) years with this project. 
 
+## Forked and (possibly) maintained
+
+I don't know what I'm doing more than half the time, but it's a real shame that the original repo was archived. I looked into this as a possible reporting solution at the advice of a peer and its potential for customization in a converged setting (physical, cyber, both) but, well, never got around to it. Maybe now!
+
+### Feature wishlist
+
+tbd
+
 ## SimplE RePort wrIting and CollaboratiOn tool
 Serpico is a penetration testing report generation and collaboration tool. It was developed to cut down on the amount of time it takes to write a penetration testing report.
 
